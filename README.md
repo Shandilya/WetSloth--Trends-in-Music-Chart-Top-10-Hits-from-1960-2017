@@ -3,7 +3,7 @@ Project Title: "Trends in Music Chart Top 10 Hits from 1960-2017".
 
 Description: Analyzing top ten hits between 1960 - 2017.
 
-Data: Billboard website's Top 10 Hits per year since 1960
+Data: Billboard website's Top 10 Hits each year since 1960.
 
 Techniques & Tools: Build database. Used python and matplotlib.
 
